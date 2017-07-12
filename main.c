@@ -3,8 +3,8 @@
 
 int main(void)
 {
-	int val = 0xD0;
-
+	int val = 0xE0;
+	
 	/* print debug: info test */
 	printf("Hello, World!\n");
 
