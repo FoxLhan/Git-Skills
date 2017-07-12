@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	/* print debug info */
+	/* print debug: info test */
 	printf("Hello, World!\n");
 
 	return 0;
